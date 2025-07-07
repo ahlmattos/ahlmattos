@@ -3,17 +3,24 @@
 
 <div id="icons">
   <a href="https://www.linkedin.com/in/alvaromattos">
-    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Linkedin.png&logoColor=white" width="50" alt="Linkedin"/>
+    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Linkedin.png" style="text-decoration: none;" width="50" alt="Linkedin"/>
   </a>  
   <a href="https://www.salesforce.com/trailblazer/amattos">
-    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Trailhead.png&logoColor=white" width="50" alt="Trailhead"/>
+    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Trailhead.png"  style="text-decoration: none;" width="50" alt="Trailhead"/>
   </a>
   <a href="https://www.sottama.com">
-    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Sottama.png&logoColor=white" width="200" alt="Sottama"/>
+    <img src="https://github.com/ahlmattos/ahlmattos/blob/main/Icon_Sottama.png"  style="text-decoration: none;" width="200" alt="Sottama"/>
   </a>
 </div>
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlmattos&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ahlmattos&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
+---
+<table>
+  <tr>
+    <td>
+        <img height = "200em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlmattos&show_icons=true&theme=bear&count_private=true"/>
+    </td>
+    <td>
+        <img height = "200em" aling="right" src="https://github-readme-stats.vercel.app/api?username=ahlmattos&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+    </td>   
+  </tr>
+</table>
